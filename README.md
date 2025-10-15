@@ -69,7 +69,7 @@
 [github]: https://github.com/MOHAMEDDAGMOUMI97 
 
 
-
+<!--
 **MohamedDagmoumi/MohamedDagmoumi** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 - 🎓 Master’s in Mechatronics (Université Abdelmalek Essaâdi)
@@ -77,4 +77,4 @@
 - 🔭 Passionate about Robotics, Control Systems, and Smart Engineering
 - 💬 Ask me about MATLAB, Simulink, or embedded systems
 - 📫 Reach me via LinkedIn!
-
+-->
