@@ -66,7 +66,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/mohamed-dagmoumi-essafi  
-[github]: https://github.com/MOHAMEDDAGMOUMI97 
+[github]: https://github.com/MOHAMEDDAGMOUMI97/MOHAMED-DAGMOUMI-ESSAFI
 
 
 <!--
