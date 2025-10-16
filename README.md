@@ -4,7 +4,7 @@
 <a href="#">Building intelligent solutions</a>,
 <a href="#">Tech Enthusiast</a></h1>
 
-<h2>🚀 Engineering & Development Projects</h2>
+<h2>Engineering & Development Projects</h2>
 
 - <b>Design and Validation of a Thermal Engine</b> (Feb 2025 – May 2025)  
   <i>Thermo-mechanical analysis and energy optimization – ANSYS, CATIA, SOLIDWORKS</i>  
@@ -38,7 +38,7 @@
 
 ---
 
--<b>Amplitude Modulation – Final Year Project</b> May 2024 – Jul 2024)  
+- <b>Amplitude Modulation – Final Year Project</b> May 2024 – Jul 2024)  
   <i>Modulation and Simulation of Communication Systems – PROTEUS</i>  
   - Analyzed amplitude modulation principles and its applications in data transmission.  
   - Modeled and simulated AM and compared with other modulation types.  
@@ -47,20 +47,20 @@
 
 ---
 
-<h2>🧠 Currently Learning</h2>
+<h2>Currently Learning</h2>
 
 - Machine Learning & Data Analytics (Google Cloud Courses)  
 - Python and C++ for Embedded & AI Systems  
 - Advanced MATLAB/Simulink Modeling (Control & Robotics)  
 - Automation and Power Electronics  
 
-<h2>💡 Technical Skills</h2>
+<h2>Technical Skills</h2>
 
 - **Software:** MATLAB, Simulink, Stateflow, Simscape, ANSYS, CATIA, SolidWorks, Proteus  
 - **Programming:** C++, Python (beginner), Embedded C  
 - **Domains:** Mechatronics, Control Systems, Thermal Analysis, Automation, AI & ML  
 
-<h2>🤳 Connect with me</h2>
+<h2>Connect with me</h2>
 
 [<img align="left" alt="MohamedDagmoumi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MohamedDagmoumi | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
