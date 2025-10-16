@@ -30,7 +30,7 @@
 
 ---
 
-- <a href="https://github.com/MOHAMEDDAGMOUMI97/Automotive_Diagnostic_System/edit/main/README.md" ><b>Automotive Diagnostic System</b></a>  (Jun 2025 – Jul 2025)  
+- <a href="https://github.com/MOHAMEDDAGMOUMI97/Automotive_Diagnostic_System/tree/main" ><b>Automotive Diagnostic System</b></a>  (Jun 2025 – Jul 2025)  
   <i>Embedded Project – MPLAB X IDE, PROTEUS</i>  
   - Designed a microcontroller-based system to monitor speed, temperature, and voltage via sensors.  
   - Programmed in C using MPLAB X and simulated in Proteus.  
