@@ -1,6 +1,7 @@
 <h1>Hi, I'm Mohamed Dagmoumi Essafi! 👋<br/>
-<a href="https://github.com/MohamedDagmoumi">Mechatronics Engineer</a>, 
-<a href="https://www.linkedin.com/in/mohamed-dagmoumi-essafi">Future Machine Learning Engineer</a>, 
+<a href="https://www.linkedin.com/in/mohamed-dagmoumi-essafi">Future Mechatronics Engineer</a> |  
+<a href="https://www.linkedin.com/in/mohamed-dagmoumi-essafi"> Passionate about Machine Learning & Robotics </a> |  
+<a href="#">Building intelligent solutions</a>,
 <a href="#">Tech Enthusiast</a></h1>
 
 <h2>🚀 Engineering & Development Projects</h2>
@@ -29,7 +30,7 @@
 
 ---
 
-- <b>Automotive Diagnostic System</b> (Jun 2025 – Jul 2025)  
+- <a href="https://github.com/MOHAMEDDAGMOUMI97/Automotive_Diagnostic_System/edit/main/README.md" ><b>Automotive Diagnostic System</b></a>  (Jun 2025 – Jul 2025)  
   <i>Embedded Project – MPLAB X IDE, PROTEUS</i>  
   - Designed a microcontroller-based system to monitor speed, temperature, and voltage via sensors.  
   - Programmed in C using MPLAB X and simulated in Proteus.  
@@ -37,7 +38,7 @@
 
 ---
 
-- <b>Amplitude Modulation – Final Year Project</b> (May 2024 – Jul 2024)  
+-<b>Amplitude Modulation – Final Year Project</b> May 2024 – Jul 2024)  
   <i>Modulation and Simulation of Communication Systems – PROTEUS</i>  
   - Analyzed amplitude modulation principles and its applications in data transmission.  
   - Modeled and simulated AM and compared with other modulation types.  
